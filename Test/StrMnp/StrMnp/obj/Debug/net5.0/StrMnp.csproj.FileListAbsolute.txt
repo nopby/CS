@@ -1,0 +1,16 @@
+C:\dev\C#\Test\StrMnp\StrMnp\bin\Debug\net5.0\StrMnp.exe
+C:\dev\C#\Test\StrMnp\StrMnp\bin\Debug\net5.0\StrMnp.deps.json
+C:\dev\C#\Test\StrMnp\StrMnp\bin\Debug\net5.0\StrMnp.runtimeconfig.json
+C:\dev\C#\Test\StrMnp\StrMnp\bin\Debug\net5.0\StrMnp.runtimeconfig.dev.json
+C:\dev\C#\Test\StrMnp\StrMnp\bin\Debug\net5.0\StrMnp.dll
+C:\dev\C#\Test\StrMnp\StrMnp\bin\Debug\net5.0\ref\StrMnp.dll
+C:\dev\C#\Test\StrMnp\StrMnp\bin\Debug\net5.0\StrMnp.pdb
+C:\dev\C#\Test\StrMnp\StrMnp\obj\Debug\net5.0\StrMnp.csproj.AssemblyReference.cache
+C:\dev\C#\Test\StrMnp\StrMnp\obj\Debug\net5.0\StrMnp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\Test\StrMnp\StrMnp\obj\Debug\net5.0\StrMnp.AssemblyInfoInputs.cache
+C:\dev\C#\Test\StrMnp\StrMnp\obj\Debug\net5.0\StrMnp.AssemblyInfo.cs
+C:\dev\C#\Test\StrMnp\StrMnp\obj\Debug\net5.0\StrMnp.csproj.CoreCompileInputs.cache
+C:\dev\C#\Test\StrMnp\StrMnp\obj\Debug\net5.0\StrMnp.dll
+C:\dev\C#\Test\StrMnp\StrMnp\obj\Debug\net5.0\ref\StrMnp.dll
+C:\dev\C#\Test\StrMnp\StrMnp\obj\Debug\net5.0\StrMnp.pdb
+C:\dev\C#\Test\StrMnp\StrMnp\obj\Debug\net5.0\StrMnp.genruntimeconfig.cache
